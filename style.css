@@ -83,6 +83,13 @@ color :#222
 .card h3{
     color : darkred;
 }
+.card strong {
+    display:block;
+    margin-top :10px;
+    color:darkred;
+    font-size: 18px;
+}
+
 .call-to-action{
     text-align: center;
 }
